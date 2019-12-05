@@ -1,0 +1,11 @@
+{
+    "appName": "input-suggestions",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "input-suggestions"
+    ]
+  }
